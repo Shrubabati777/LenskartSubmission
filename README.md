@@ -1,5 +1,5 @@
 # LenskartSubmission
-Problem given
+Problem given:-
 Step -1 Assignment details: https://www.youtube.com/watch?v=93HPTuyjHdc
 2nd Step- Submit the Assignment
 
@@ -26,3 +26,4 @@ Judgement Criteria Suggested Solution:
 - Impact on Product / Business
 - Approach taken
 
+Figma link of my solution: https://www.figma.com/file/sQltg6NI9IoTnR4VS3WJJ0/lenskart
