@@ -27,3 +27,7 @@ Judgement Criteria Suggested Solution:
 - Approach taken
 
 Figma link of my solution: https://www.figma.com/file/sQltg6NI9IoTnR4VS3WJJ0/lenskart
+
+In this repository: A document describing my judgement, thinking and approach and a video file of the prototype being played. 
+
+Thank you!
